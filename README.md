@@ -28,7 +28,7 @@
 **Fireman Trial** 🔥 *(Language: Portuguese-BR)*  
 This is my TCC (final course project) designed to educate users about fire classifications. I’m also using this project in an article to demonstrate **code modularization** for new programmers.
 
-  <img src="https://github.com/astrobilbo/astrobilbo/blob/main/Captura%20de%20tela%202024-10-28%20162506.png" alt="Fireman Trial Screenshot" style="width: 60%; border-radius: 10px; margin-top: 15px;">
+  <img src="https://github.com/astrobilbo/astrobilbo/blob/main/Captura%20de%20tela%202024-10-29%20001751.png" alt="Fireman Trial Screenshot" style="width: 60%; border-radius: 10px; margin-top: 15px;">
   
 </div>
 
