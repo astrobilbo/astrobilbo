@@ -11,8 +11,8 @@
   Hi, I'm **Manuel**! A **game developer** with a focus on Unity and C#, passionate about building engaging game experiences. My journey in programming and game development began at **IFBA**, where I first discovered the world of coding and design.
   <div>
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrobilbo&theme=dark&show_icons=true&bg_color=4B0082"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrobilbo&theme=dark&layout=compact&bg_color=4B0082"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=astrobilbo&theme=dark&show_icons=true&bg_color=4B0082"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrobilbo&theme=dark&layout=compact&bg_color=4B0082"/>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=astrobilbo&theme=highcontrast&background=4B0082&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000" alt="GitHub Streak" />
     </a>
