@@ -27,8 +27,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C009C&center=true&repeat=false&width=435&lines=%F0%9F%95%B9+Current+Projects)](https://git.io/typing-svg)
 **Fireman Trial** 🔥 *(Language: Portuguese-BR)*  
 This is my TCC (final course project) designed to educate users about fire classifications. I’m also using this project in an article to demonstrate **code modularization** for new programmers.
-
-  <img src="https://github.com/astrobilbo/astrobilbo/blob/main/Captura%20de%20tela%202024-10-29%20001751.png" alt="Fireman Trial Screenshot" style="width: 60%; border-radius: 10px; margin-top: 15px;">
   
 </div>
 
